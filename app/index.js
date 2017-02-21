@@ -5,6 +5,7 @@ import Home from './scenes/Home';
 class App extends Component {
 
   render() {
+
     return (
       <Home />
     );

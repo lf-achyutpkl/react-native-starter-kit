@@ -12,5 +12,9 @@ export default StyleSheet.create({
     width: 300,
     height: 300,
     resizeMode: 'contain'
+  },
+  paragraphText: {
+    padding: 16,
+    textAlign: 'center'
   }
 });

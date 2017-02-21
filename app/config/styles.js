@@ -5,6 +5,6 @@ export const colors = {
   primary: '#F44336',
   darkPrimary: '#D32F2F',
   backgroundColor: '#F5FCFF',
-  primaryTextColor: '#FFFFFF',
+  primaryTextColor: '#333333',
   primaryDarkColor: '#212121'
 };

@@ -4,7 +4,7 @@ import {AppRegistry} from 'react-native';
 import App from './app/';
 
 const HelloRN = () => (
-    <App />
+  <App />
 );
 
 AppRegistry.registerComponent('HelloRN', () => HelloRN);

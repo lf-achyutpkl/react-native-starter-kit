@@ -3,7 +3,7 @@
  */
 
 const image = {
-    LOGO: require('../images/logo.png')
+  LOGO: require('../images/logo.png')
 };
 
 export default image;
